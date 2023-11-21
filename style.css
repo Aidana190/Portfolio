@@ -1,0 +1,48 @@
+@import "null.css";
+.header {
+}
+.header__container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.header__logo {
+}
+.header__menu {
+}
+.menu {
+}
+.menu__icon {
+}
+.icon-menu {
+}
+.menu__body {
+}
+.menu__list {
+}
+.menu__item {
+  color: var(--1st, #212832);
+  font-family: Google Sans;
+  font-size: 22.612px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+}
+.menu__link {
+}
+.header__registration {
+}
+.registration-header {
+  color: var(--1st, #212832);
+  font-family: Google Sans;
+  font-size: 22.612px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+}
+.registration-header__login {
+}
+.registration-header__signup {
+}
+.registration-header__languages {
+}

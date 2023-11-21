@@ -1,0 +1,21 @@
+@import "null.css";
+.logo {
+  display: flex;
+}
+.cover_img {
+  display: flex;
+  justify-content: center;
+}
+.title_section1 {
+  display: flex;
+}
+.menu__body {
+  display: flex;
+  justify-content: right;
+}
+.menu__list {
+}
+.menu__item {
+}
+.menu__link {
+}
